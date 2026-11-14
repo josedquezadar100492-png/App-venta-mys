@@ -1,0 +1,1 @@
+Proyecto App Venta Mys para Embutido Mys. Aplicación Android en español para gestionar ventas, compras, inventario, clientes, suplidores, abonos y facturas en pesos dominicanos RD$. Funcionará sin internet y permitirá sincronizar información entre teléfonos cuando haya conexión.
